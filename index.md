@@ -1,4 +1,4 @@
-### Readme
+### Note:
 This guide assumes you have already set up Git and the Git extension in Visual Studio. If you haven't, and want to know how, [click here](https://ucsd-health-rmas.github.io/StartupGuide/) to go to the startup guide.
 
 # Creating a New Repository
