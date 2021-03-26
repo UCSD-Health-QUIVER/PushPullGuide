@@ -26,7 +26,9 @@ Hit _Create and Push_ to build the repository, and that should be it! You can ch
 
 # Cloning a Solution from a Repository 
 ### (Downloading a solution that already exists on the Github)
-TBD
+_Cloning_ a repository is the process of downloading a copy of the repository to your local computer. Once downloaded, you will have access to any files or code taht was stored in the repository. You are then able to modify these files however you want. Once you've changed a file, you must _commit_ the changes. This updates the saved copy of the file in your local computer (the copy of the file located in the remote repository remains unchanged). In order to update the _remote_ repository located on Github/com, you must  
+_push_ your _commits_ to the remote repository. See below for the step-by-step guide for doing this!
+
 
 
 
