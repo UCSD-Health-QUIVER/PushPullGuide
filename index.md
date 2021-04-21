@@ -26,8 +26,21 @@ Hit _Create and Push_ to build the repository, and that should be it! You can ch
 
 # Cloning a Solution from a Repository 
 ### (Downloading a solution that already exists on the Github)
-_Cloning_ a repository is the process of downloading a copy of the repository to your local computer. Once downloaded, you will have access to any files or code taht was stored in the repository. You are then able to modify these files however you want. Once you've changed a file, you must _commit_ the changes. This updates the saved copy of the file in your local computer (the copy of the file located in the remote repository remains unchanged). In order to update the _remote_ repository located on Github/com, you must  
+_Cloning_ a repository is the process of downloading a copy of the repository to your local computer. Once downloaded, you will have access to any files or code that was stored in the repository. You are then able to modify these files however you want. Once you've changed a file, you must _commit_ the changes. This updates the saved copy of the file in your local computer (the copy of the file located in the remote repository remains unchanged). In order to update the _remote_ repository located on Github/com, you must  
 _push_ your _commits_ to the remote repository. See below for the step-by-step guide for doing this!
+
+### First, click on the clone repository button from the Git dropdown
+![clone repo](https://user-images.githubusercontent.com/80896632/115495824-52b0c580-a21d-11eb-867e-59041362ab37.png)
+
+### Next, copy the link to the repository from the Github page by clicking the "Code" dropdown button
+![https copy](https://user-images.githubusercontent.com/80896632/115496060-be932e00-a21d-11eb-9499-3decd7265e69.png)
+
+### Paste that link into the repository location field in Visual Studio and hit the clone button
+(Note, if you want to change where the repository is stored on your local machine, change the path directory field)
+![clone](https://user-images.githubusercontent.com/80896632/115496126-dcf92980-a21d-11eb-959a-406ab737775d.png)
+
+### That it, you're under source control! You should see the solution explorer on the side of your Visual Studio dashboard now.
+![solution explorer](https://user-images.githubusercontent.com/80896632/115496243-1d58a780-a21e-11eb-90a1-cd62b743f235.png)
 
 
 
